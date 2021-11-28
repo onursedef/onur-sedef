@@ -1,5 +1,5 @@
-<h1 align="center"># Hi, I'm Onur</h1>
-<h2 align="center">## and I'm a self-taught developer (think so?)</h2>
+<h1 align="center"> Hi, I'm Onur</h1>
+<h2 align="center"> and I'm a self-taught developer (think so?)</h2>
 
 ### 🛠Tech Stack
 
