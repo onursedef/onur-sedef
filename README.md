@@ -20,9 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
-![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
@@ -32,7 +29,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
 ### 🤝🏻 Connect with me
@@ -42,4 +38,4 @@
 
 ---
 Credits: [ferdiozer](https://github.com/ferdiozer)
-Last Edited On: 11/29/2021
+Last Edited On: 08/05/2022
