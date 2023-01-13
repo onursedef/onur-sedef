@@ -1,41 +1,25 @@
-<h1 align="center"> Hi, I'm Onur</h1>
-<h2 align="center"> and I'm a self-taught developer (think so?)</h2>
 
-### 🛠Tech Stack
-
-- 🌐 &nbsp; Javascript | TypeScript | ReactJS | NextJs | VueJs | C# | Python | Dart 
-- 🌐 &nbsp; HTML | CSS | TailwindCSS | Bootstrap 
-- 🛢&nbsp; MongoDB | SQL | MySQL
-- 🔧 &nbsp; Git | Github | Gitlab | Vscode
-- 🖥 &nbsp; Illustrator | Photoshop | Adobe XD | Figma
-- 📱 &nbsp; Flutter | React-Native | ElectronJS 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
-![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000?&logo=amazon-aws)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
-
-### 🤝🏻 Connect with me
-<a href="mailto:onrsedef1@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello">
-<img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/> </a>
+# Hi, I'm Onur! 👋
 
 
----
-Credits: [ferdiozer](https://github.com/ferdiozer)
-Last Edited On: 08/05/2022
+## 🚀 About Me
+
+I am a software developer with a passion for constant learning. With experience in mobile, front-end, and backend development, I am skilled in a variety of programming languages including PHP, React, Svelte, MySQL, GitHub, C#, C, C++, Golang, Java and Python. Additionally, I am an mobile application developer and have experience with graphic design. My diverse background and thirst for knowledge make me a versatile and adaptable developer.
+
+
+
+👩‍💻 I'm currently working on my own portfolio.
+
+🧠 I'm currently learning `Golang` and `Rust`
+
+💬 Ask me about anything if it is something related development, will be happy to help
+
+
+
+## 🛠 Skills
+Javascript, Laravel, .NET Core Web, EntityFramework, Golang, Typescript, Python, Flask, Django, Flutter, Firebase, PostgreSQL, MySQL, MongoDB, Amazon AWS, Next.js
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://onursedef.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-sedef/)
