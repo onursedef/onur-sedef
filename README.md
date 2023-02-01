@@ -112,13 +112,15 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursedef&hide_border=true&layout=compact" align="center" /></div>  
 
+<div aligb="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)]
+</div>
+
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=k1s2g0dyboi6qlavxy1mhlryj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=k1s2g0dyboi6qlavxy1mhlryj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 
-<div aligb="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</div>
+
 
 <br/>  
 
