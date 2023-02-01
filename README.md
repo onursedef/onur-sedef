@@ -121,7 +121,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=onursedef&&style=flat-square" align="center" />
 </div>  
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <br/>  
 
