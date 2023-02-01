@@ -108,12 +108,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=onursedef&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=onursedef&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursedef&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursedef&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" align="center" />
+<img src="https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=daily" align="center" />
 </div>
 
 <br/>  
