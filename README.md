@@ -113,7 +113,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursedef&hide_border=true&layout=compact" align="center" /></div>  
 
 <div aligb="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)]
+<img src="https://streak-stats.demolab.com?user=onursedef&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" align="center" />
 </div>
 
 <br/>  
